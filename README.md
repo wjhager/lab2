@@ -1,5 +1,4 @@
 # eecs230 lab2
-Lab 2 materials
 
 We will go through a demonstration/review of the concepts you learned this past week.
 Are there any quick questions about homework or lecture material?
