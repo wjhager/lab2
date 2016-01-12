@@ -53,7 +53,6 @@ variable age. Have your program write "I hear you just had a birthday and you ar
 years old." If age is 0 or less or 110 or more, write an error "you're kidding!"
 
 4. Now, make the following additions:
-
 - If the friend is under 12, write "Next year you will be age+1."
 - If the friend is 17, write "Next year you will be able to vote."
 - If the friend is over 70, write "I hope you are enjoying retirement."
