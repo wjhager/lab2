@@ -38,7 +38,7 @@ string called “operation” and use an if-statement to figure out which operat
 user wants, and return the result. Read the operands into variables of type double.
 Implement this for +, -, *, /.
 
-3. Declare a string variable named "friend_gender" and initialize its value to an enum state.
+3. Declare a enumerator-based variable named "friend_gender" and initialize its value to an enum state.
 Also declare a string variable named "friend_name" and initialize it.
 Prompt the user to enter a friend's name and an "m" if the friend is male
 and an "f" if the friend is female.
