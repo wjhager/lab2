@@ -38,11 +38,11 @@ string called “operation” and use an if-statement to figure out which operat
 user wants, and return the result. Read the operands into variables of type double.
 Implement this for +, -, *, /.
 
-3. Declare a string variable named "friend_sex" and initialize its value to zero.
+3. Declare a string variable named "friend_gender" and initialize its value to an enum state.
 Also declare a string variable named "friend_name" and initialize it.
 Prompt the user to enter a friend's name and an "m" if the friend is male
 and an "f" if the friend is female.
-Assign the value entered to the variable friend_sex.
+Assign the value entered to the enum variable friend_gender.
 Then use two if-statements to write the following:
   - If the friend is male, write "If you see friend_name please ask him to call me."
   - If the friend is female, write "If you see friend_name please ask her to call me."
